@@ -4,7 +4,7 @@ A custom-designed guitar booster pedal project developed with **Altium Designer*
 
 > **Note:**
 > This project is still under active development and iterative refinement.
-> Circuit topology, component values, PCB layout, and simulation workflow may continue to change over time.
+> Circuit topology, component values, PCB layout continue to change over time.
 
 ---
 
